@@ -1,4 +1,4 @@
-<h1 align = "center"><a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life"> Conway's Game of Life </a> </h1>
+<h1 align = "center"><a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life"> 🎮 Conway's Game of Life 🧬</a> </h1>
 
 ... is a [cellular automaton](https://en.wikipedia.org/wiki/Cellular_automaton) devised by Mathematician John Conway.  It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input.
 
